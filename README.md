@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/yongwoo-kim/id1626062808)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/yongwoo-kim/id1626062808) ![Google Play · Coming Soon](https://img.shields.io/badge/Google_Play-Coming_Soon-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 <sub>Try again. Fail again. Fail better.</sub>
 
