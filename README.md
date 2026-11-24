@@ -1,5 +1,17 @@
-**구조로 속도를 만드는 iOS 개발자**<br>
-모듈화 · 디자인 시스템 · 온디바이스 AI
+## Introduce
+
+**구조로 속도를 만드는 iOS 개발자**
+
+🧩 **Modularization** · 🧠 **onDevice AI** · ☁️ **CI/CD** · 🎨 **DesignSystem**
+
+> 커머스 서비스에서는 클린 아키텍처 기반 모듈화와 공용 SPM 모듈을 구축하고,<br>
+> 디자인 시스템을 설계하며 Xcode Cloud 기반 배포 환경을 개선했습니다.
+>
+> AI 콘텐츠 서비스에서는 Cloud ML·On-Device AI 기능을 제품화해 MVP를 출시·운영했으며,<br>
+> 앱 업데이트 없이 이미지·텍스트 에셋을 추가할 수 있는 시스템을 구축했습니다.
+>
+> 반복되는 개발 과정을 구조화해<br>
+> 팀이 더 빠르고 안정적으로 제품을 만들 수 있는 기반을 만듭니다.
 
 <p><a href="https://developer.apple.com/kr/documentation/swift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/swiftui"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/uikit"><img alt="UIKit" src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/combine"><img alt="Combine" src="https://img.shields.io/badge/Combine-6E56CF?style=flat-square&logo=swift&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/swift/concurrency"><img alt="Swift Concurrency" src="https://img.shields.io/badge/Swift_Concurrency-2F3337?style=flat-square&logo=swift&logoColor=white"></a><br><a href="https://developer.apple.com/kr/documentation/packagedescription"><img alt="SPM" src="https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=swift&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/xcode/xcode-cloud"><img alt="Xcode Cloud" src="https://img.shields.io/badge/Xcode_Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/coreml"><img alt="CoreML" src="https://img.shields.io/badge/CoreML-555555?style=flat-square&logo=apple&logoColor=white"></a>&nbsp;<a href="https://developer.apple.com/kr/documentation/vision"><img alt="Vision" src="https://img.shields.io/badge/Vision-555555?style=flat-square&logo=apple&logoColor=white"></a><br><a href="https://firebase.google.com/docs?hl=ko"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"></a></p>
 
@@ -12,22 +24,16 @@
 | **[ASWEMAKE](https://www.aswemake.com/)** | 2025.08 – 2026.07 | 큐마켓 · 큐마켓 파트너스 — 모듈화, 디자인 시스템, Xcode Cloud |
 | **[Anipen](https://www.anipen.com/)** | 2022.11 – 2025.07 | BerryMoji · 1thePic 런칭 — 온디바이스 AI, CoreML/Vision |
 
-## What I've Done
+<br>
 
-| | |
-|:-:|---|
-| 🧩 | **Modularization** |
-| 🧠 | **On-Device AI** |
-| ☁️ | **Xcode Cloud CI/CD** |
+## Experience
 
-> 커머스 서비스에서는 클린 아키텍처 기반 모듈화와 공용 SPM 모듈을 구축하고,<br>
-> 디자인 시스템을 설계하며 Xcode Cloud 기반 배포 환경을 개선했습니다.
->
-> AI 콘텐츠 서비스에서는 Cloud ML·On-Device AI 기능을 제품화해 MVP를 출시·운영했으며,<br>
-> 앱 업데이트 없이 이미지·텍스트 에셋을 추가할 수 있는 시스템을 구축했습니다.
->
-> 반복되는 개발 과정을 구조화해<br>
-> 팀이 더 빠르고 안정적으로 제품을 만들 수 있는 기반을 만듭니다.
+- **2024** · let us: Hack! 2024 찍먹톤
+- **2023** · **let us: GO! 2023 Fall** — Speaker · *[CoreML과 VisionKit 그리고 온디바이스 AI에 대한 이야기](https://www.youtube.com/watch?v=yiCb3dqJXmg&list=PL03rJBlpwTaDcTTNVMETmglJZpM-GuPm3&index=6)*
+- **2023** · Tasty Code — SeSAC iOS 부트캠프 Mentor
+- **2022** · Depromeet 12th
+- **2022** · Yagom Academy - Mentor
+- **2021** · Yagom Academy Career Starter Camp 3rd
 
 <br>
 
@@ -45,7 +51,7 @@
     </td>
     <td width="25%">
       <a href="https://apps.apple.com/kr/app/id6503341132"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/a0/27/20a02736-ef03-1576-4aff-f582de641bb4/Placeholder.mill/400x400bb-75.webp" width="64" height="64"></a><br>
-      <sub><b>큐마켓 파트너스</b></sub>
+      <sub><b>파트너스</b></sub>
     </td>
     <td width="25%">
       <a href="https://apps.apple.com/kr/app/id6504273337"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/34/95/d8349520-7799-5bc8-f6e4-6ca795d76635/AppIcon.production-1x_U007ephone-0-85-220-0.png/230x0w.webp" width="64" height="64"></a><br>
@@ -72,7 +78,11 @@
 
 <table width="100%">
   <tr>
-    <th colspan="4" align="center">Marcorable</th>
+    <th colspan="4" align="center">
+      Marcorable&nbsp;&nbsp;
+      <a href="https://apps.apple.com/kr/developer/yongwoo-kim/id1626062808"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&amp;logo=appstore&amp;logoColor=white"></a>&nbsp;
+      <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&amp;logo=googleplay&amp;logoColor=white">
+    </th>
   </tr>
   <tr align="center">
     <td colspan="2" width="50%">
@@ -86,20 +96,9 @@
   </tr>
 </table>
 
-## Experience
-
-- **2024** · let us: Hack! 2024 찍먹톤
-- **2023** · **let us: GO! 2023 Fall** — Speaker · *[CoreML과 VisionKit 그리고 온디바이스 AI에 대한 이야기](https://www.youtube.com/watch?v=yiCb3dqJXmg&list=PL03rJBlpwTaDcTTNVMETmglJZpM-GuPm3&index=6)*
-- **2023** · Tasty Code — SeSAC iOS 부트캠프 Mentor
-- **2022** · Depromeet 12th
-- **2022** · Yagom Academy - Mentor
-- **2021** · Yagom Academy Career Starter Camp 3rd
-
 <br>
 
 <div align="center">
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/yongwoo-kim/id1626062808) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 <sub>Try again. Fail again. Fail better.</sub>
 
